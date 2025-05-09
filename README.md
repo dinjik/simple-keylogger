@@ -20,5 +20,6 @@ If you don't have these libraries installed, you can install them using the foll
 
 ```bash
 pip install pynput pywin32
+sudo apt install xdotool
 ```
 
